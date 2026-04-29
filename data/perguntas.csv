@@ -1,0 +1,277 @@
+frase,categoria
+"Qual é o limite do meu cartão?",limite
+"Como posso aumentar meu limite?",limite
+"Qual é o meu limite de crédito?",limite
+"Meu limite foi reduzido",limite
+"Quero saber meu limite disponível",limite
+"Como aumentar o limite do cartão?",limite
+"Solicitar aumento de limite",limite
+"Quanto tenho de limite?",limite
+"Limite disponível no cartão",limite
+"Por que meu limite foi bloqueado?",limite
+"Meu limite diminuiu sem motivo",limite
+"Quero solicitar revisão do meu limite",limite
+"Limite de crédito reduzido",limite
+"Como funciona o limite do cartão?",limite
+"Quando posso pedir aumento de limite?",limite
+"Quando vence a fatura do meu cartão?",fatura
+"Qual é o valor da minha fatura?",fatura
+"Quando vence minha fatura?",fatura
+"Quero ver minha fatura",fatura
+"Valor da fatura atual",fatura
+"Data de vencimento da fatura",fatura
+"Minha fatura está alta",fatura
+"Como consultar a fatura?",fatura
+"Segunda via da fatura",fatura
+"Fatura do mês passado",fatura
+"Quero a fatura em PDF",fatura
+"Como receber a fatura por email?",fatura
+"Fatura não chegou",fatura
+"Fatura com valor errado",fatura
+"Contestar cobrança na fatura",fatura
+"Como faço para pagar a fatura?",pagamento
+"Quero pagar meu cartão",pagamento
+"Como pagar o cartão?",pagamento
+"Boleto para pagamento",pagamento
+"Pagar fatura pelo aplicativo",pagamento
+"Formas de pagamento do cartão",pagamento
+"Como quitar minha dívida?",pagamento
+"Pagar fatura atrasada",pagamento
+"Pagar pelo PIX",pagamento
+"Pagamento mínimo da fatura",pagamento
+"Pagar fatura no débito automático",pagamento
+"Código de barras para pagamento",pagamento
+"Posso pagar antecipado?",pagamento
+"Pagar parcelado a fatura",pagamento
+"Juros por atraso no pagamento",pagamento
+"Quais são as taxas do meu cartão?",taxas
+"Qual é a taxa de juros?",taxas
+"Taxa de anuidade do cartão",taxas
+"Juros do cartão de crédito",taxas
+"Quanto é a anuidade?",taxas
+"Taxas e encargos do cartão",taxas
+"IOF do cartão",taxas
+"Taxa de juros rotativo",taxas
+"Quanto é o juros por atraso?",taxas
+"Taxa de saque no cartão",taxas
+"Taxa de câmbio no exterior",taxas
+"Encargos por atraso",taxas
+"Anuidade grátis",taxas
+"Como isentar a anuidade?",taxas
+"Tarifa de manutenção do cartão",taxas
+"Como posso desbloquear meu cartão?",desbloqueio
+"Cartão bloqueado como desbloquear?",desbloqueio
+"Desbloquear cartão novo",desbloqueio
+"Meu cartão está bloqueado",desbloqueio
+"Como ativar meu cartão?",desbloqueio
+"Cartão não funciona como desbloquear",desbloqueio
+"Recebi o cartão como ativo?",desbloqueio
+"Cartão recusado como resolver?",desbloqueio
+"Cartão novo como usar?",desbloqueio
+"Reativar cartão cancelado",desbloqueio
+"Desbloquear cartão pelo celular",desbloqueio
+"Como faço para solicitar um novo cartão?",solicitacao
+"Quero pedir um cartão",solicitacao
+"Solicitar cartão adicional",solicitacao
+"Como pedir um segundo cartão?",solicitacao
+"Quero um cartão para meu dependente",solicitacao
+"Pedir novo cartão de crédito",solicitacao
+"Cartão para filho menor de idade",solicitacao
+"Solicitar cartão virtual",solicitacao
+"Como adicionar dependente no cartão?",solicitacao
+"Pedir cartão de crédito online",solicitacao
+"Qual é o saldo disponível no meu cartão?",saldo
+"Quanto tenho de saldo?",saldo
+"Ver saldo do cartão",saldo
+"Consultar saldo disponível",saldo
+"Quanto posso gastar?",saldo
+"Saldo atual do cartão",saldo
+"Meu saldo disponível",saldo
+"Saldo após compras",saldo
+"Saldo no aplicativo",saldo
+"Consultar saldo pelo celular",saldo
+"Saldo do cartão adicional",saldo
+"Como consultar meu extrato?",extrato
+"Ver extrato do cartão",extrato
+"Extrato detalhado das compras",extrato
+"Histórico de transações",extrato
+"Extrato dos últimos 30 dias",extrato
+"Como ver compras realizadas?",extrato
+"Extrato do mês anterior",extrato
+"Compras no extrato que não reconheço",extrato
+"Extrato pelo aplicativo",extrato
+"Extrato por email",extrato
+"Imprimir extrato do cartão",extrato
+"Extrato em PDF",extrato
+"Como bloquear meu cartão?",bloqueio
+"Quero bloquear o cartão",bloqueio
+"Bloquear cartão temporariamente",bloqueio
+"Bloqueio preventivo do cartão",bloqueio
+"Bloquear cartão pelo celular",bloqueio
+"Como suspender o cartão?",bloqueio
+"Bloquear cartão por segurança",bloqueio
+"Bloquear cartão de dependente",bloqueio
+"Suspender cartão temporariamente",bloqueio
+"Bloquear todas as compras",bloqueio
+"Perdi meu cartão o que fazer?",cartao_perdido
+"Cartão roubado",cartao_perdido
+"Furtaram meu cartão",cartao_perdido
+"Não encontro meu cartão",cartao_perdido
+"Cartão foi roubado o que fazer?",cartao_perdido
+"Me roubaram o cartão",cartao_perdido
+"Perdi a carteira com o cartão",cartao_perdido
+"Cartão sumiu",cartao_perdido
+"Como cancelar cartão perdido?",cartao_perdido
+"Compras feitas com cartão roubado",cartao_perdido
+"Cancelar cartão roubado",cartao_perdido
+"Vi uma compra que não fiz",fraude
+"Compra não reconhecida na fatura",fraude
+"Fraude no meu cartão",fraude
+"Usaram meu cartão sem minha autorização",fraude
+"Transação suspeita no extrato",fraude
+"Como contestar uma compra?",fraude
+"Estorno de compra não reconhecida",fraude
+"Alguém usou meu cartão",fraude
+"Compra indevida na fatura",fraude
+"Clonaram meu cartão",fraude
+"Cartão clonado o que fazer?",fraude
+"Tentativa de fraude no cartão",fraude
+"Reportar fraude no cartão",fraude
+"Como funciona o cashback?",cashback
+"Tenho cashback no cartão?",cashback
+"Como resgatar cashback?",cashback
+"Saldo de cashback",cashback
+"Cashback nas compras",cashback
+"Quanto de cashback recebi?",cashback
+"Cashback em supermercado",cashback
+"Cashback em postos de gasolina",cashback
+"Como usar o cashback acumulado?",cashback
+"Cashback não foi creditado",cashback
+"Programa de cashback do cartão",cashback
+"Como funcionam os pontos do cartão?",pontos
+"Quantos pontos tenho?",pontos
+"Como resgatar meus pontos?",pontos
+"Pontos expiram?",pontos
+"Acumular pontos no cartão",pontos
+"Transferir pontos para milhas",pontos
+"Pontos por compra",pontos
+"Resgatar pontos em produtos",pontos
+"Meus pontos sumiram",pontos
+"Prazo para usar os pontos",pontos
+"Programa de pontos e milhas",pontos
+"Converter pontos em milhas aéreas",pontos
+"Como alterar minha senha?",senha
+"Esqueci a senha do cartão",senha
+"Trocar PIN do cartão",senha
+"Senha bloqueada",senha
+"Quantas tentativas de senha tenho?",senha
+"Desbloquear senha do cartão",senha
+"Criar nova senha do cartão",senha
+"Senha do cartão virtual",senha
+"Como resetar a senha?",senha
+"Senha incorreta cartão bloqueado",senha
+"Como parcelar uma compra?",parcelamento
+"Parcelar compras no cartão",parcelamento
+"Máximo de parcelas no cartão",parcelamento
+"Parcelar fatura em atraso",parcelamento
+"Renegociar dívida do cartão",parcelamento
+"Parcelar débito do cartão",parcelamento
+"Quantas vezes posso parcelar?",parcelamento
+"Parcelamento sem juros",parcelamento
+"Parcelar pelo aplicativo",parcelamento
+"Como funciona o parcelamento?",parcelamento
+"Usar cartão no exterior",viagem
+"Compras em moeda estrangeira",viagem
+"Taxa de câmbio no cartão",viagem
+"Habilitar cartão para uso no exterior",viagem
+"Cartão aceito fora do Brasil?",viagem
+"Avisar o banco sobre viagem",viagem
+"Limite para uso no exterior",viagem
+"Cartão bloqueado no exterior",viagem
+"Compra em dólar no cartão",viagem
+"Usar cartão na Europa",viagem
+"Como entrar em contato com a central?",atendimento
+"Telefone do atendimento",atendimento
+"Falar com atendente",atendimento
+"SAC do cartão",atendimento
+"Chat de atendimento",atendimento
+"Reclamação sobre o cartão",atendimento
+"Ouvidoria do cartão",atendimento
+"Horário de atendimento",atendimento
+"Atendimento 24 horas",atendimento
+"Canal de atendimento online",atendimento
+"Como cancelar meu cartão?",cancelamento
+"Quero cancelar o cartão",cancelamento
+"Encerrar conta do cartão",cancelamento
+"Cancelamento do cartão de crédito",cancelamento
+"Como encerrar o cartão?",cancelamento
+"Cancelar cartão adicional",cancelamento
+"Desativar cartão de crédito",cancelamento
+"Cancelar cartão sem dívida",cancelamento
+"Cancelar cartão com dívida pendente",cancelamento
+"Quero fechar minha conta",cancelamento
+"Como solicitar segunda via do cartão?",segunda_via
+"Segunda via do cartão",segunda_via
+"Pedir cartão novo por perda",segunda_via
+"Cartão vencido pedir novo",segunda_via
+"Cartão danificado segunda via",segunda_via
+"Prazo para receber segunda via",segunda_via
+"Segunda via pelo aplicativo",segunda_via
+"Custo da segunda via",segunda_via
+"Reemissão do cartão",segunda_via
+"Cartão com defeito trocar",segunda_via
+"Seguro do cartão",seguro
+"Como acionar o seguro do cartão?",seguro
+"Seguro de proteção do cartão",seguro
+"Seguro contra fraude",seguro
+"Seguro de compra protegida",seguro
+"Assistência do cartão",seguro
+"Cobertura do seguro do cartão",seguro
+"Cancelar seguro do cartão",seguro
+"Valor do seguro do cartão",seguro
+"Seguro viagem do cartão",seguro
+"Como configurar débito automático?",debito_automatico
+"Pagar fatura em débito automático",debito_automatico
+"Ativar débito automático",debito_automatico
+"Cancelar débito automático",debito_automatico
+"Débito automático não funcionou",debito_automatico
+"Como funciona o débito automático?",debito_automatico
+"Alterar conta do débito automático",debito_automatico
+"Débito automático pelo aplicativo",debito_automatico
+"Como usar cartão virtual?",cartao_virtual
+"O que é cartão virtual?",cartao_virtual
+"Gerar cartão virtual",cartao_virtual
+"Cartão virtual para compras online",cartao_virtual
+"Cartão virtual temporário",cartao_virtual
+"Excluir cartão virtual",cartao_virtual
+"Limite do cartão virtual",cartao_virtual
+"Número do cartão virtual",cartao_virtual
+"Cartão virtual no Google Pay",cartao_virtual
+"Cartão virtual no Apple Pay",cartao_virtual
+"Como usar no Google Pay?",carteira_digital
+"Adicionar cartão no Apple Pay",carteira_digital
+"Samsung Pay com meu cartão",carteira_digital
+"Pagamento por aproximação",carteira_digital
+"NFC do cartão",carteira_digital
+"Cartão no celular",carteira_digital
+"Como configurar pagamento por aproximação?",carteira_digital
+"Pagar com o celular",carteira_digital
+"Adicionar cartão na carteira digital",carteira_digital
+"Benefícios do meu cartão",beneficios
+"Quais são os benefícios do cartão?",beneficios
+"Sala VIP aeroporto",beneficios
+"Acesso à sala VIP",beneficios
+"Seguro viagem incluído?",beneficios
+"Desconto em parceiros",beneficios
+"Vantagens do cartão",beneficios
+"Benefícios do cartão platinum",beneficios
+"Benefícios do cartão gold",beneficios
+"Concierge do cartão",beneficios
+"Como usar o PIX com o cartão?",pix
+"PIX com crédito",pix
+"Fazer PIX pelo cartão de crédito",pix
+"Limite PIX no cartão",pix
+"PIX parcelado no cartão",pix
+"PIX com cashback",pix
+"Chave PIX do cartão",pix
+"PIX pelo aplicativo do cartão",pix

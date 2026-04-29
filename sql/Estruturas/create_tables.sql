@@ -1,0 +1,11 @@
+CREATE TABLE perguntas (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    frase TEXT NOT NULL,
+    categoria TEXT NOT NULL
+);
+
+CREATE TABLE respostas (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    categoria TEXT NOT NULL,
+    resposta TEXT NOT NULL
+);
