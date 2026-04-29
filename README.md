@@ -157,6 +157,6 @@ python-dotenv
 
 ## 🏫 Informações Acadêmicas
 
-- **Curso:** Análise e Desenvolvimento de Sistemas
-- **Disciplina:** Banco de Dados
-- **Ano/Semestre:** 2026 — 1º Semestre
+- **Curso:** Ciências da Computação
+- **Disciplina:** Inteligência Artificial e Aprendizado de Máquina
+- **Ano/Semestre:** 2026 — 7º Semestre
